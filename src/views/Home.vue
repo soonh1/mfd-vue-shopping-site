@@ -1,7 +1,13 @@
 <template>
-  <div class="home">
-    <CartList />
-    <ProductList />
+  <div class="container">
+    <div class="columns">
+      <div class="column is-one-third">
+        <cart-list></cart-list>
+      </div>
+      <div class="column">
+        <product-list></product-list>
+      </div>
+    </div>
   </div>
 </template>
 
