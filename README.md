@@ -33,3 +33,10 @@ Vuex store for product data,
 Write cart data to localstorage
 
 (Modified from source: "Fullstack Vue.js" by Hassan Djirdeh)
+
+#### Fake API
+
+To run api 
+```
+json-server --watch projects.json
+```
