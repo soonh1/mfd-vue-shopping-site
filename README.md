@@ -38,5 +38,5 @@ Write cart data to localstorage
 
 To run api 
 ```
-json-server --watch projects.json
+json-server --watch Shopping-site.json
 ```
